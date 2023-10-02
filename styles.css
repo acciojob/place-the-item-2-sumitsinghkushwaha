@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+#box{
+	
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	flex-wrap:wrap;
+}
+.box{
+	background-color:blue;
+	width:100px;
+	height:100px;
+	margin:20px;
+	padding:20px;
+	font-weight:900;
+	font-size:20px;
+}
